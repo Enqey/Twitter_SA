@@ -10,7 +10,7 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-import tweet_creds
+import tweet_creds   #twitter authentication credentials
 import numpy as np 
 import pandas as pd 
 import matplotlib.pyplot as plt 
